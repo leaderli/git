@@ -1,4 +1,7 @@
 print('hello')
+<<<<<<< HEAD
 print('fuck you')
+=======
 print('bug')
+>>>>>>> bug
 
